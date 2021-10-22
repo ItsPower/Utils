@@ -1,0 +1,8 @@
+OS Name: System.getProperty("os.name"));
+OS Arch: System.getProperty("os.arch"));
+OS Vers: System.getProperty("os.version"));
+Java Vers: System.getProperty("java.version"));
+Java Home: System.getProperty("java.home"));
+User Name: System.getProperty("user.name"));
+User Home: System.getProperty("user.home"));
+Current dir: System.getProperty("user.dir"));
